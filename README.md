@@ -93,16 +93,7 @@ CLI (FinancialAnalysisApp)
  ├─ ForecastService (3-month outlook)
  └─ SummaryExportService (markdown/json/html)
 ```
-
-## Notes for Recruiters
-
-This repository demonstrates:
-
-- **Readable, maintainable code** (layered architecture with cohesive classes).
-- **Efficiency and explicitness** in data processing.
 - **Portfolio-ready artifacts** (summaries exported to `out/summary.md` and `out/summary.json`).
 - **Professional-grade CLI behavior** suitable for portfolio review.
 
 ---
-
-If you'd like additional export formats (JSON/Parquet), database integration, or a UI, those can be added with minimal changes thanks to the modular design.
