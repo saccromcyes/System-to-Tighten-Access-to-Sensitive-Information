@@ -1,0 +1,32 @@
+date,description,category,type,amount,balance,destination
+2024-01-01,Monthly Salary,Income,CREDIT,5200.00,5200.00,Employer Inc
+2024-01-03,Payment - Rent,Housing,DEBIT,1450.00,3750.00,Landlord LLC
+2024-01-05,Payment - Grocery,Groceries,DEBIT,162.30,3587.70,Fresh Market
+2024-01-08,Payment - Transit,Transport,DEBIT,45.00,3542.70,Metro
+2024-01-12,Payment - Coffee,Food & Dining,DEBIT,4.50,3538.20,Coffee Shop
+2024-01-15,Payment - Utilities,Utilities,DEBIT,180.25,3357.95,Utility Co
+2024-01-18,Streaming Service,Entertainment,DEBIT,12.99,3344.96,StreamNow
+2024-01-20,Payment - Gym,Health,DEBIT,49.00,3295.96,City Gym
+2024-01-25,Bonus,Income,CREDIT,500.00,3795.96,Employer Inc
+2024-02-01,Monthly Salary,Income,CREDIT,5100.00,8895.96,Employer Inc
+2024-02-03,Payment - Rent,Housing,DEBIT,1450.00,7445.96,Landlord LLC
+2024-02-06,Payment - Grocery,Groceries,DEBIT,175.60,7270.36,Fresh Market
+2024-02-09,Payment - Transit,Transport,DEBIT,48.00,7222.36,Metro
+2024-02-12,Payment - Coffee,Food & Dining,DEBIT,5.25,7217.11,Coffee Shop
+2024-02-15,Payment - Utilities,Utilities,DEBIT,190.30,7026.81,Utility Co
+2024-02-18,Streaming Service,Entertainment,DEBIT,12.99,7013.82,StreamNow
+2024-02-20,Payment - Gym,Health,DEBIT,49.00,6964.82,City Gym
+2024-02-23,Payment - Flight,Travel,DEBIT,580.00,6384.82,Airline
+2024-03-01,Monthly Salary,Income,CREDIT,5150.00,11534.82,Employer Inc
+2024-03-04,Payment - Rent,Housing,DEBIT,1450.00,10084.82,Landlord LLC
+2024-03-08,Payment - Grocery,Groceries,DEBIT,182.10,9902.72,Fresh Market
+2024-03-12,Payment - Utilities,Utilities,DEBIT,192.45,9710.27,Utility Co
+2024-03-18,Streaming Service,Entertainment,DEBIT,12.99,9697.28,StreamNow
+2024-03-22,Payment - Gym,Health,DEBIT,49.00,9648.28,City Gym
+2024-04-01,Monthly Salary,Income,CREDIT,5200.00,14848.28,Employer Inc
+2024-04-03,Payment - Rent,Housing,DEBIT,1450.00,13398.28,Landlord LLC
+2024-04-06,Payment - Grocery,Groceries,DEBIT,176.80,13221.48,Fresh Market
+2024-04-11,Payment - Transit,Transport,DEBIT,52.00,13169.48,Metro
+2024-04-15,Payment - Utilities,Utilities,DEBIT,188.75,12980.73,Utility Co
+2024-04-18,Streaming Service,Entertainment,DEBIT,12.99,12967.74,StreamNow
+2024-04-22,Payment - Gym,Health,DEBIT,49.00,12918.74,City Gym
